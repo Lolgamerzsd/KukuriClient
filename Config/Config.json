@@ -7,21 +7,21 @@
         ]
     },
     "GeneralSettings": {
-        "OwnerID": "",
+        "OwnerID": "1135617902444290249",
         "ShowLoadCommands": false,
         "EnableNSFW": false,
         "EnableDelete": false
     },
     "NotificationSettings": {
         "Enabled": false,
-        "Webhook": ""
+        "Webhook": "https://discord.com/api/webhooks/1323715673343660092/bdtmYDzaMwpCxQEZHGjqYs0aho6Ub4F_uSxGpPuiY9g8ZpbIeMML4QLBFncQujp1fDTd"
     },
     "Commands": {
         "Booting": {
             "Enabled": false,
             "Status": "Starting up the bot...",
             "AfterStatus": "Bot is now online!",
-            "ChannelID": ""
+            "ChannelID": "1323715625054502952"
         },
         "AFK": {
             "afk": false,
@@ -32,7 +32,7 @@
                 "What, wait a sec",
                 "yo wait I'm afk dude",
                 "this is an auto msg, I'm afk",
-                "afk",
+                "Hello There!, I Am Currently Afk",
                 "I'm afk, will be back soon!"
             ]
         }
